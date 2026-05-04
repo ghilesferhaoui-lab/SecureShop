@@ -312,7 +312,7 @@ See `.env.example` for all available variables. Critical ones:
 ## 👥 Authors
 
 - Workshop: DevSecOps Case Study
-- Participant: [Your Name]
+- Participant: Risky
 
 ---
 
