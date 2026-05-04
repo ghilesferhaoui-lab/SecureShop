@@ -301,11 +301,6 @@ See `.env.example` for all available variables. Critical ones:
 
 3. Security findings must be resolved before merge
 
----
-
-## 📄 License
-
-[Your License Here - MIT recommended]
 
 ---
 
